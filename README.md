@@ -2,6 +2,26 @@
 
 5Dots is a responsive personal workspace web app for tracking daily tasks, logging daily habits, managing job and internship applications, and writing notes, with real-time cloud sync via Firebase.
 
+### Live Link : [5Dots Tracker](https://5dots-tracker.netlify.app)
+
+## Preview Images 
+
+#### Overview Page 
+<img width="954" height="434" alt="image" src="https://github.com/user-attachments/assets/14f3a5d4-e4ee-4a4c-a69d-ba69a60069e3" />
+
+#### Tasks Page 
+<img width="949" height="438" alt="image" src="https://github.com/user-attachments/assets/7d84f869-04e3-4173-96a9-c6a75acf07f1" />
+
+#### Daily Habits Page 
+<img width="953" height="433" alt="image" src="https://github.com/user-attachments/assets/65ea2442-7702-4202-a73f-89e9cf9d6176" />
+
+#### Jobs AND Internships Page 
+<img width="952" height="431" alt="image" src="https://github.com/user-attachments/assets/e26b2828-d8cc-4c43-adc4-36a249b44635" />
+
+#### Notes Page
+<img width="949" height="456" alt="image" src="https://github.com/user-attachments/assets/e549fc7b-6321-453d-a7f0-95787054af90" />
+
+
 ## Features
 
 - **Overview (`#/dashboard`)**: Daily habit completion, task completion, application pipeline counts (`Applied`, `Interviewing`, `Offer`, `Rejected`), status funnel bars, and daily trend charts powered by Chart.js.
